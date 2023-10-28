@@ -1,0 +1,123 @@
+
+/*body{
+  margin-top:70px;
+  border:1px solid;
+  padding-top:50px;
+  padding-bottom:50px;
+  border:none;
+  border-radius:20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+  
+ 
+}*/
+body{
+  text-align:center;
+  
+  
+}
+
+img{
+  width:50px;
+}
+form{
+  text-align:center;
+  width:400px;
+  margin-top:50px;
+  
+}
+.head p{
+  font-size:25px;
+  font-family:arial;
+  font-weight:300;
+  
+}
+.user p{
+  margin-left:-80px;
+  font-size:15px;
+  margin-bottom:10px;
+  
+}
+.text{
+  padding-left:40px;
+  padding-right:40px;
+  padding-top:5px;
+  padding-bottom:5px;
+  border:2px solid;
+  border-radius:8px;
+  border-color:#CCCCCC;
+}
+.pass p{
+  font-size:15px;
+  margin-bottom:10px;
+ 
+}
+.pass a{
+  font-size:13px;
+  text-decoration:none;
+  margin-right:-80px;
+  margin-left:90px;
+  color:#0A66C2;
+}
+.passwd{
+  padding-left:40px;
+  padding-right:40px;
+  padding-top:5px;
+  padding-bottom:5px;
+  border:2px solid;
+  border-radius:8px;
+  border-color:#CCCCCC;
+  margin-bottom:20px;
+}
+.pass button{
+  padding-left:112px;
+  padding-right:112px;
+  padding-top:7px;
+  padding-bottom:7px;
+  border-radius:8px;
+  border:none;
+  background-color:green;
+  color:white;
+  
+}
+.pass button:hover{
+  color:black;
+}
+.user{
+  border:1px solid;
+  border-color:#CCCCCC;
+  padding-bottom:20px;
+  margin-left:40px;
+  margin-right:40px;
+  border-radius:8px;
+  background-color:#F2F2F2;
+}
+.create{
+  border:1px solid;
+  margin-left:40px;
+  margin-right:40px;
+  border-radius:8px;
+  border-color:#CCCCCC;
+  margin-top:20px;
+  margin-bottom:50px;
+}
+.create a{
+  text-decoration:none;
+  color:#0A66C2;
+}
+.last a{
+  text-decoration:none;
+
+}
+.last ul{
+  font-size:12px;
+  display:inline;
+  padding:5px;
+  color:#0A66C2;
+  
+  
+}
+.last p{
+  display:inline;
+  color:dimgrey;
+}
